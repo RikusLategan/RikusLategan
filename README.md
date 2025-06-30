@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RikusLategan
 - 💻 I am fluent in **C++** and currently learning **Go**, though I try not to prefer any one language.
-- 🌱 I studied BSc Mathematical Sciences (Comp. Sci. major) at the University of Stellenbosch, South Africa (2006).
+- 🌱 I studied B. Sc. Mathematical Sciences (Comp Sci) at the University of Stellenbosch, South Africa (2006).
 - 💞️ I work in foundation phase education part-time.
 - 📫 My Gmail address is easy enough to guess should there be a need to contact me. 
 
